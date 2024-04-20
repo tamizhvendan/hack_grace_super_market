@@ -8,5 +8,7 @@ Modules required:
 Installing commands:
 pip install <package_name>
 
+Create "AUTH" directory - where stores the user data
+
 Note:
 You can modify these scripts to as per your requirements
