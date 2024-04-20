@@ -1,0 +1,12 @@
+Python programming language
+
+Modules required:
+1. progressbar
+2. aiofiles
+3. aiohttp
+
+Installing commands:
+pip install <package_name>
+
+Note:
+You can modify these scripts to as per your requirements
